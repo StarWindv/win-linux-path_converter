@@ -3,6 +3,8 @@
 
 一款智能多功能的命令行工具，支持在 Windows 和 Linux 路径格式之间灵活转换，提供样式定制和高级格式化选项。
 
+[Endlish](./README_EN.md)
+
 ---
 
 ## 功能亮点 ✨
@@ -111,7 +113,7 @@ stv_path "/my_mount/c/user/docs" -m my_mount
 
 ## 贡献指南 🤝
 
-欢迎贡献代码！欢迎随时提交issue和pr！  
+欢迎贡献代码！欢迎随时提交issue和pr！
 
 ---
 
