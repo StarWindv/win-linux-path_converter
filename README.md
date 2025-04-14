@@ -1,4 +1,4 @@
-```markdown
+
 # STV 路径转换器 🌐
 
 一款智能多功能的命令行工具，支持在 Windows 和 Linux 路径格式之间灵活转换，提供样式定制和高级格式化选项。
@@ -30,11 +30,11 @@ pip install stv_path_converter
 ### 从源码构建
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/starwindv/stv_path_converter.git
+   git clone https://github.com/StarWindv/win-linux-path_converter
    ```
 2. 使用 Poetry 安装：
    ```bash
-   cd stv_path_converter
+   cd win-linux-path_converter
    pip install .
    ```
 
