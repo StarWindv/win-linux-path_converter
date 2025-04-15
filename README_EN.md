@@ -33,7 +33,7 @@ pip install stv_path_converter
    ```bash  
    git clone https://github.com/StarWindv/win-linux-path_converter  
    ```  
-2. Install using Poetry:  
+2. Install using pip:  
    ```bash  
    cd win-linux-path_converter  
    pip install .  
