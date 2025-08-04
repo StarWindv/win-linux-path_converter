@@ -12,15 +12,16 @@ authors = [
 description = "Unix to Windows Path or Windows to Unix path converter"
 readme = "README.md"
 license = { text = "MIT" }
-requires-python = ">=3.6"
+requires-python = ">=3.10"
 classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
 ]
 dependencies = [
-    "stv_utils"
+    "stv_utils==0.0.6"
 ]
 urls = { "Homepage" = "https://github.com/StarWindv/" }
 
 [project.scripts]
+
 stv_path = "stv_path_converter.main:main"
